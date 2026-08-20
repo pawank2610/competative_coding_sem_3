@@ -1,5 +1,5 @@
 # competative_coding_sem_3
 
-cd "C:\COMPETETIVE CODING SEM-3"
-git push -u origin main
-git status
+git add .
+git commit -m "Added new competitive coding problems"
+git push origin main
